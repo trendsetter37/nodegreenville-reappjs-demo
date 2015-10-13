@@ -1,0 +1,17 @@
+{
+  "author": "Javis Sullivan",
+  "name": "ngmobile",
+  "repository": "",
+  "description": "Demo mobile app for NodeGreenville",
+  "version": "1.0.0",
+  "main": "./app/app.js",
+  "reapp": "0.8",
+  "scripts": {
+    "test": "",
+    "start": "reapp run"
+  },
+  "dependencies": {
+    "react": "0.13.2",
+    "reapp-kit": "^1.2.0"
+  }
+}
